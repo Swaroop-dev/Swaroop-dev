@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Swaroop-dev currently working as software engineer at Betsol
-- 👀 I’m interested in full stack  dev primarily in javascript
-- 💞️ I’m looking to collaborate on nodejs projects 
+- 👀 I’m interested in full stack  dev primarily in javascript and Dot net
 - 📫 How to reach me swaroopaee98@gmail.com
 
 <!---
